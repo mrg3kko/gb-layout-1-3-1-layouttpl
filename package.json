@@ -1,0 +1,15 @@
+{
+	"name": "gb-layout-1-3-1-layouttpl",
+	"version": "1.0.0",
+	"main": "package.json",
+	"keywords": [
+		"liferay-theme"
+	],
+	"liferayLayoutTemplate": {
+		"version": "7.1"
+	},
+	"devDependencies": {
+		"gulp": "^3.9.1",
+		"liferay-plugin-node-tasks": "1.0.11"
+	}
+}
